@@ -1,0 +1,31 @@
+{
+	"name": "RAKwireless RAK13801 UWB",
+	"version": "1.0.0",
+	"keywords": [
+		"DWM1000",
+		"RAKWireless",
+		"WisBlock",
+		"RAK13801"
+	],
+	"description": "RAKWireless library for the RAK13801 UWB module",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "GNU",
+	"authors": [
+		{
+			"email": "nero.du@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Nero"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK13801_UWB"
+	},
+	"homepage": "https://rakwireless.com"
+}
